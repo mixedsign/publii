@@ -3,12 +3,35 @@
     <title>Дограма</title>
     <link href="https://mixedsign.github.io/publii/feed.xml" rel="self" />
     <link href="https://mixedsign.github.io/publii" />
-    <updated>2019-11-16T09:33:41+02:00</updated>
+    <updated>2019-11-16T09:42:28+02:00</updated>
     <author>
         <name>Дойч дограма от Варна</name>
     </author>
     <id>https://mixedsign.github.io/publii</id>
 
+    <entry>
+        <title>Контакти</title>
+        <author>
+            <name>Дойч дограма от Варна</name>
+        </author>
+        <link href="https://mixedsign.github.io/publii/kontakti-2.html"/>
+        <id>https://mixedsign.github.io/publii/kontakti-2.html</id>
+
+        <updated>2019-11-16T09:40:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mixedsign.github.io/publii/media/posts/9/young-man-working-warehouse-with-boxes_1303-16629.jpg" alt="" />
+                    адрес на базата офис шоурум
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mixedsign.github.io/publii/media/posts/9/young-man-working-warehouse-with-boxes_1303-16629.jpg" alt="" />
+                <p>адрес на базата</p>
+<p>офис шоурум</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Галерия</title>
         <author>
@@ -79,7 +102,7 @@
         <link href="https://mixedsign.github.io/publii/kontakti.html"/>
         <id>https://mixedsign.github.io/publii/kontakti.html</id>
 
-        <updated>2019-11-16T09:20:04+02:00</updated>
+        <updated>2019-11-16T09:36:48+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mixedsign.github.io/publii/media/posts/6/chrome-door-handle-glass-modern-aluminium-office-facade_76080-6237.jpg" alt="" />

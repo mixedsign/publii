@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://mixedsign.github.io/publii/kontakti-2.html",
+            "url": "https://mixedsign.github.io/publii/kontakti-2.html",
+            "title": "Контакти",
+            "summary": "адрес на базата офис шоурум",
+            "content_html": "<p>адрес на базата</p>\n<p>офис шоурум</p>",
+            "image": "https://mixedsign.github.io/publii/media/posts/9/young-man-working-warehouse-with-boxes_1303-16629.jpg",
+            "author": {
+                "name": "Дойч дограма от Варна"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-16T09:40:22+02:00",
+            "date_modified": "2019-11-16T09:40:22+02:00"
+        },
+        {
             "id": "https://mixedsign.github.io/publii/galeriya.html",
             "url": "https://mixedsign.github.io/publii/galeriya.html",
             "title": "Галерия",
@@ -52,7 +67,7 @@
             "tags": [
             ],
             "date_published": "2019-11-09T13:08:31+02:00",
-            "date_modified": "2019-11-16T09:20:04+02:00"
+            "date_modified": "2019-11-16T09:36:48+02:00"
         },
         {
             "id": "https://mixedsign.github.io/publii/pet-kamerna.html",
