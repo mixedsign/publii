@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Дограма</title>
+    <link href="https://mixedsign.github.io/publii/feed.xml" rel="self" />
+    <link href="https://mixedsign.github.io/publii" />
+    <updated>2019-11-16T09:24:32+02:00</updated>
+    <author>
+        <name>Дойч дограма от Варна</name>
+    </author>
+    <id>https://mixedsign.github.io/publii</id>
+
+    <entry>
+        <title>Галерия</title>
+        <author>
+            <name>Дойч дограма от Варна</name>
+        </author>
+        <link href="https://mixedsign.github.io/publii/galeriya.html"/>
+        <id>https://mixedsign.github.io/publii/galeriya.html</id>
+
+        <updated>2019-11-16T09:06:38+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mixedsign.github.io/publii/media/posts/8/kid-home-by-roof-window_21730-4030.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/careful-workmen-carrying-windows-frames-from-truck_1398-5584.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/careful-workmen-carrying-windows-frames-from-truck_1398-5584-thumbnail.jpg" alt="" width="626" height="939"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/carpenters-hand-using-professional-woodworking-electric-tools_116407-1679.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/carpenters-hand-using-professional-woodworking-electric-tools_116407-1679-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/couple-workmen-factory_1398-5562.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/couple-workmen-factory_1398-5562-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/couple-workmen-factory_1398-5575.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/couple-workmen-factory_1398-5575-thumbnail.jpg" alt="" width="626" height="445"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/joinery-shop-with-machines_135427-468.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/joinery-shop-with-machines_135427-468-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/production-workers-coverall_1398-5571.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/production-workers-coverall_1398-5571-thumbnail.jpg" alt="" width="626" height="939"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-careful-workers-inspecting-windows_1398-5586.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-careful-workers-inspecting-windows_1398-5586-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-careful-workmen-cutting-glass_1398-5578.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-careful-workmen-cutting-glass_1398-5578-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-careful-workmen-cutting-glass_1398-5579.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-careful-workmen-cutting-glass_1398-5579-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-careful-workmen-inspecting-windows_1398-5573.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-careful-workmen-inspecting-windows_1398-5573-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-smiling-workmen-factory_1398-6058.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-smiling-workmen-factory_1398-6058-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-uniform_1398-5569.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-uniform_1398-5569-thumbnail.jpg" alt="" width="626" height="938"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-uniform_1398-5572.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-uniform_1398-5572-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-uniform_1398-5574.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-uniform_1398-5574-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-working-machine_1398-5563.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-working-machine_1398-5563-thumbnail.jpg" alt="" width="626" height="939"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-working-machine_1398-5576.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-working-machine_1398-5576-thumbnail.jpg" alt="" width="626" height="939"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-working-with-glass_1398-6056.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workers-working-with-glass_1398-6056-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workmen-inspecting-windows_1398-5585.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workmen-inspecting-windows_1398-5585-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workmen-pvc-shop_1398-6051.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/two-workmen-pvc-shop_1398-6051-thumbnail.jpg" alt="" width="626" height="523"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/workers-choosing-pvc-profile_1398-6055.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/workers-choosing-pvc-profile_1398-6055-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/workmen-with-windows-production_1398-6059.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/workmen-with-windows-production_1398-6059-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+<figure class="gallery__item"><a href="https://mixedsign.github.io/publii/media/posts/8/gallery/young-man-working-warehouse-with-boxes_1303-16629.jpg" ><img src="https://mixedsign.github.io/publii/media/posts/8/gallery/young-man-working-warehouse-with-boxes_1303-16629-thumbnail.jpg" alt="" width="626" height="417"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Прозорец за таван</title>
+        <author>
+            <name>Дойч дограма от Варна</name>
+        </author>
+        <link href="https://mixedsign.github.io/publii/prozorec-za-tavan.html"/>
+        <id>https://mixedsign.github.io/publii/prozorec-za-tavan.html</id>
+
+        <updated>2019-11-16T08:55:59+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mixedsign.github.io/publii/media/posts/7/kid-home-by-roof-window_21730-4030.jpg" alt="" />
+                    Искате да си смените капандурата ...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mixedsign.github.io/publii/media/posts/7/kid-home-by-roof-window_21730-4030.jpg" alt="" />
+                Искате да си смените капандурата ...
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>За нас</title>
+        <author>
+            <name>Дойч дограма от Варна</name>
+        </author>
+        <link href="https://mixedsign.github.io/publii/kontakti.html"/>
+        <id>https://mixedsign.github.io/publii/kontakti.html</id>
+
+        <updated>2019-11-16T09:20:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mixedsign.github.io/publii/media/posts/6/chrome-door-handle-glass-modern-aluminium-office-facade_76080-6237.jpg" alt="" />
+                    Дългогодишен опит ....
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mixedsign.github.io/publii/media/posts/6/chrome-door-handle-glass-modern-aluminium-office-facade_76080-6237.jpg" alt="" />
+                Дългогодишен опит ....
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Пет Камерна</title>
+        <author>
+            <name>Дойч дограма от Варна</name>
+        </author>
+        <link href="https://mixedsign.github.io/publii/pet-kamerna.html"/>
+        <id>https://mixedsign.github.io/publii/pet-kamerna.html</id>
+
+        <updated>2019-11-16T09:19:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mixedsign.github.io/publii/media/posts/4/pvc-profile-windows-with-triple-glazing_21730-12123.jpg" alt="" />
+                    Продорци от петкамерен профил
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mixedsign.github.io/publii/media/posts/4/pvc-profile-windows-with-triple-glazing_21730-12123.jpg" alt="" />
+                Продорци от петкамерен профил
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Нашите решения за Вас</title>
+        <author>
+            <name>Дойч дограма от Варна</name>
+        </author>
+        <link href="https://mixedsign.github.io/publii/izrabotka-na-kachestvena-dograma.html"/>
+        <id>https://mixedsign.github.io/publii/izrabotka-na-kachestvena-dograma.html</id>
+
+        <updated>2019-11-16T09:15:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mixedsign.github.io/publii/media/posts/3/two-careful-workmen-cutting-glass_1398-5578.jpg" alt="" />
+                    Качествена рофесионална изработка без компромиси! Винаги навреме и с грижа за най-малкия детайл ... виж повече 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mixedsign.github.io/publii/media/posts/3/two-careful-workmen-cutting-glass_1398-5578.jpg" alt="" />
+                <p><img class="post__image--left" src="https://mixedsign.github.io/publii/media/posts/3/home_aluminum_frame.png" alt="" width="465" height="226">Качествена рофесионална изработка без компромиси!</p>
+<p>Винаги навреме и с грижа за най-малкия детайл</p>
+<p>... <a href="https://getpublii.com/docs/host-static-website-github-pages.html" target="_blank" rel="noopener noreferrer">виж повече</a></p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Изработка на плъзгащ прозорец</title>
+        <author>
+            <name>Дойч дограма от Варна</name>
+        </author>
+        <link href="https://mixedsign.github.io/publii/resheniya.html"/>
+        <id>https://mixedsign.github.io/publii/resheniya.html</id>
+
+        <updated>2019-11-16T09:18:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mixedsign.github.io/publii/media/posts/2/hand-opening-glass-door_35076-445.jpg" alt="" />
+                    Решения конкретно за Вас
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mixedsign.github.io/publii/media/posts/2/hand-opening-glass-door_35076-445.jpg" alt="" />
+                Решения конкретно за Вас
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Какво предлагаме</title>
+        <author>
+            <name>Дойч дограма от Варна</name>
+        </author>
+        <link href="https://mixedsign.github.io/publii/vidove.html"/>
+        <id>https://mixedsign.github.io/publii/vidove.html</id>
+
+        <updated>2019-11-16T09:17:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mixedsign.github.io/publii/media/posts/1/hand-opening-glass-door_35076-445.jpg" alt="" />
+                    Видове дограми
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mixedsign.github.io/publii/media/posts/1/hand-opening-glass-door_35076-445.jpg" alt="" />
+                Видове дограми
+            ]]>
+        </content>
+    </entry>
+</feed>
